@@ -2,9 +2,10 @@
   "name": "bdjokesapi",
   "version": "1.0.0",
   "description": "Bd Jokes Api - Intrigate Jokes to your website",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "start" : "node index.js"
+    "dev": "nodemon index.js"
   },
   "author": "K Undefine",
   "license": "ISC",
